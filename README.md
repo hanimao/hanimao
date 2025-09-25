@@ -10,7 +10,7 @@
 
 # Open Source Project
 
-- [GitHub](https://github.com/hanimao/threat-composer)
+- [threat-composer](https://github.com/hanimao/threat-composer)
 
 # Technologies & Skills
 

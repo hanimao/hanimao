@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Hani</h1>
 
-<h3 align="center">A DevOps Engineer who is passionate in streamlining softwarew development and automating cloud infrastructure</h3>
+<h3 align="center">A DevOps Engineer who is passionate in streamlining software development and automating cloud infrastructure</h3>
 
 # Connect with Me
 

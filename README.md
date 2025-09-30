@@ -8,11 +8,11 @@
 
 - [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/hani-mao-05a1b2200)
 
-# Open Source Project
+## Open Source Project
 
 - [threat-composer](https://github.com/hanimao/threat-composer)
 
-# Technologies & Skills
+## Tech Stack
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)

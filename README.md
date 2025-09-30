@@ -22,3 +22,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
   
+
+## 📊 GitHub Stats  
+
+![Hani GitHub stats](https://github-readme-stats.vercel.app/api?username=hanimao&show_icons=true&theme=tokyonight)  

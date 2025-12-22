@@ -10,7 +10,7 @@
 
 ## Open Source Project
 
-- [threat-composer](https://github.com/hanimao/threat-composer)
+
 - [serverless-lambda](https://github.com/hanimao/serverless-lambda)
 
 ## Tech Stack

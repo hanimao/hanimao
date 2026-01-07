@@ -12,6 +12,7 @@
 
 
 - [serverless-lambda](https://github.com/hanimao/serverless-lambda)
+- [threat-composer](https://github.com/hanimao/threat-composer)
 
 ## Tech Stack
 

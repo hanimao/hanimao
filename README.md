@@ -4,15 +4,31 @@
   <code>A DevOps Engineer who is passionate in streamlining software development and automating cloud infrastructure</code>
 </h3>
 
-# Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/hani-mao-05a1b2200)
+<h3 align="center">🚀 Projects</h3>
 
-## Open Source Project
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| **[serverless-lambda](https://github.com/hanimao/serverless-lambda)** | Deployed a serverless Node.js WebAPI app and a SQL Server database on AWS |
+| **[threat-composer](https://github.com/hanimao/threat-composer)** | End to End deployment of threat composer on AWS ECS Fargate |
 
 
-- [serverless-lambda](https://github.com/hanimao/serverless-lambda)
-- [threat-composer](https://github.com/hanimao/threat-composer)
+---
+<h3 align="center">🔗 Connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hani-mao/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/hani-mao">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
 
 ## Tech Stack
 

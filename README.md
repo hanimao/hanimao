@@ -12,7 +12,7 @@
 | Project | Description |
 |---------|-------------|
 | **[serverless-lambda](https://github.com/hanimao/serverless-lambda)** | Deployed a serverless Node.js WebAPI app and a SQL Server database on AWS |
-| **[threat-composer](https://github.com/hanimao/threat-composer)** | End to End deployment of threat composer on AWS ECS Fargate | **[jenkins-project](https://github.com/hanimao/jenkins-project)** | Deploying Jenkins server on EC2 instance using a launch template
+| **[threat-composer](https://github.com/hanimao/threat-composer)** | End to End deployment of threat composer on AWS ECS Fargate | **[jenkins-project](https://github.com/hanimao/jenkins-project)** | Deploying Jenkins server on EC2 instance using a launch template |
 
 
 ---

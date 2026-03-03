@@ -12,8 +12,8 @@
 | Project | Description |
 |---------|-------------|
 | **[serverless-lambda](https://github.com/hanimao/serverless-lambda)** | Deployed a serverless Node.js WebAPI app and a SQL Server database on AWS |
-| **[threat-composer](https://github.com/hanimao/threat-composer)** | End to End deployment of threat composer on AWS ECS Fargate |
-
+| **[threat-composer](https://github.com/hanimao/threat-composer)** | End to End deployment of threat composer on AWS ECS Fargate | **[jenkins-project]
+(https://github.com/hanimao/jenkins-project)** | Deploying jenkins server on EC2 instance using a launch template
 
 ---
 <h3 align="center">🔗 Connect</h3>
@@ -41,7 +41,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![osAmazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
   
   
 

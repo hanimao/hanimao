@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Hani</h1>
+<h1 align="center">Hello <img src="https://github.com/hanimao/2-Tier-Web-Application/assets/97973445/af2b6192-565c-4063-8278-95c4eaae1a23" width="70px" style="vertical-align:middle"> I'm Hani </h1>
 
 <h3 align="center">
   <code>A DevOps Engineer who is passionate in streamlining software development and automating cloud infrastructure</code>

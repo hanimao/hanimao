@@ -1,5 +1,8 @@
+<div align="center">
+
 ### Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
+</div>
 
 <h3 align="center">
   <code>A DevOps Engineer who is passionate in streamlining software development and automating cloud infrastructure</code>

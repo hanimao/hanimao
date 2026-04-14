@@ -12,6 +12,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=FF8C00&center=true&width=500&lines=DevOps+Engineer" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanimao&label=Profile%20views&color=0e75b6&style=flat" alt="hanimao" /> </p>
+
 
 <h3 align="center">🚀 Projects</h3>
 
